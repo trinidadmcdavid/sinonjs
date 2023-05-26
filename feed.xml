@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sinon.JS Boxing</title>
+    <link>https://boxing.sinonjs.org</link>
+    <description>A library for mocking and stubbing JavaScript objects.</description>
+    <atom:link href="https://boxing.sinonjs.org/feed.xml" rel="self" type="application/rss+xml" />
+    <generator>Sinon.JS</generator>
+    <language>en-US</language>
+    <pubDate>2023-05-25T21:01:29Z</pubDate>
+    <lastBuildDate>2023-05-25T21:01:29Z</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title>Sinon.JS Boxing 1.0.0 Released</title>
+      <link>https://boxing.sinonjs.org/blog/2023/05/25/boxing-1-0-0-released</link>
+      <description>Sinon.JS Boxing 1.0.0 is now available. This release includes a number of new features and bug fixes.</description>
+      <pubDate>2023-05-25T21:01:29Z</pubDate>
+      <guid>https://boxing.sinonjs.org/blog/2023/05/25/boxing-1-0-0-released</guid>
+    </item>
+    <item>
+      <title>Sinon.JS Boxing 0.12.0 Released</title>
+      <link>https://boxing.sinonjs.org/blog/2023/03/08/boxing-0-12-0-released</link>
+      <description>Sinon.JS Boxing 0.12.0 is now available. This release includes a number of new features and bug fixes.</description>
+      <pubDate>2023-03-08T21:01:29Z</pubDate>
+      <guid>https://boxing.sinonjs.org/blog/2023/03/08/boxing-0-12-0-released</guid>
+    </item>
+    <item>
+      <title>Sinon.JS Boxing 0.11.0 Released</title>
+      <link>https://boxing.sinonjs.org/blog/2022/12/15/boxing-0-11-0-released</link>
+      <description>Sinon.JS Boxing 0.11.0 is now available. This release includes a number of new features and bug fixes.</description>
+      <pubDate>2022-12-15T21:01:29Z</pubDate>
+      <guid>https://boxing.sinonjs.org/blog/2022/12/15/boxing-0-11-0-released</guid>
+    </item>
+    <item>
+      <title>Sinon.JS Boxing 0.10.0 Released</title>
+      <link>https://boxing.sinonjs.org/blog/2022-09-15/boxing-0-10-0-released</link>
+      <description>Sinon.JS Boxing 0.10.0 is now available. This release includes a number of new features and bug fixes.</description>
+      <pubDate>2022-09-15T21:01:29Z</pubDate>
+      <guid>https://boxing.sinonjs.org/blog/2022/09/15/boxing-0-10-0-released</guid>
+    </item>
+  </channel>
+</rss>
